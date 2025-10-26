@@ -1,5 +1,5 @@
 # Wave Annotation Bot 🌊🤖
-This project trains a deep learning model to predict the quality of a wave from an image. It uses a Convolutional Neural Network (CNN) based on the VGG16 architecture to learn from a dataset of pre-annotated wave images and score new ones. The goal is to create a tool that can automatically rate surf quality.
+This project trains a deep learning model to predict the quality of a wave from an image. It uses a Convolutional Neural Network (CNN) based on the ResNet architecture to learn from a dataset of pre-annotated wave images and score new ones. The goal is to create a tool that can automatically rate surf quality.
 
 ## 🚀 Getting Started
 Prerequisites
